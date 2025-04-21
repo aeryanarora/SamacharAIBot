@@ -16,6 +16,12 @@ A Telegram-based AI assistant that helps UPSC aspirants by classifying articles 
 2. Use `/classify [article]` to tag GS papers and topics
 3. Use `/ask` to generate questions and answers
 
+**To use the bot, run the script locally, and access the Telegram bot from any device. Uploading to the cloud soon.**
+
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/1cb0dfb1-39e0-49a9-ab92-2461fe582fd8
+
 ## 🛠 Setup
 
 ```bash
